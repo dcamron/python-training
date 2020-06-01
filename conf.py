@@ -140,7 +140,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/python/intro-to-python", "Introduction to Python"),
         ("/gallery/gallery-home", "Example Gallery"),
-        ("/workshop/workshop-intro", "Python Workshop Materials"),
+        ("/workshop/workshop-intro", "Python Workshop Material"),
     ),
 }
 
